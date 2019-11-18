@@ -1,3 +1,9 @@
+# 2.3.0 Release notes (2019/11-18)
+
+### Breaking changes
+
+- Swift 4.2 support
+
 # 2.2.0 Release notes (2017/01/08)
 
 ### Enhancements
